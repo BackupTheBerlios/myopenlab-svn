@@ -1,0 +1,3 @@
+echo Please wait...
+java -version
+C:\Programme\Java\jdk1.6.0_11\bin\java -jar c-exp-lab.jar Elements

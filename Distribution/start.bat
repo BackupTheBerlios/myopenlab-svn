@@ -1,0 +1,1 @@
+javaw -Xms64M -Xmx512M -XX:MaxPermSize=512M  -XX:+UseConcMarkSweepGC -splash:splash.png -jar c-exp-lab.jar Elements
